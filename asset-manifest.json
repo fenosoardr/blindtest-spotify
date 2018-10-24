@@ -1,8 +1,15 @@
 {
-  "main.css": "static/css/main.d96e86a2.css",
-  "main.css.map": "static/css/main.d96e86a2.css.map",
-  "main.js": "static/js/main.b78b4ec4.js",
-  "main.js.map": "static/js/main.b78b4ec4.js.map",
-  "static/media/loading.svg": "static/media/loading.9d4cbf40.svg",
-  "static/media/logo.svg": "static/media/logo.79f6b6a0.svg"
+  "main.css": "/blindtest-spotify/static/css/main.1e9e0ab2.chunk.css",
+  "main.js": "/blindtest-spotify/static/js/main.78d67454.chunk.js",
+  "main.js.map": "/blindtest-spotify/static/js/main.78d67454.chunk.js.map",
+  "static/js/1.3f752584.chunk.js": "/blindtest-spotify/static/js/1.3f752584.chunk.js",
+  "static/js/1.3f752584.chunk.js.map": "/blindtest-spotify/static/js/1.3f752584.chunk.js.map",
+  "runtime~main.js": "/blindtest-spotify/static/js/runtime~main.bd4de7ae.js",
+  "runtime~main.js.map": "/blindtest-spotify/static/js/runtime~main.bd4de7ae.js.map",
+  "static/css/main.1e9e0ab2.chunk.css.map": "/blindtest-spotify/static/css/main.1e9e0ab2.chunk.css.map",
+  "static/media/logo.svg": "/blindtest-spotify/static/media/logo.79f6b6a0.svg",
+  "static/media/loading.svg": "/blindtest-spotify/static/media/loading.9d4cbf40.svg",
+  "index.html": "/blindtest-spotify/index.html",
+  "precache-manifest.a62761f7639534a8ef2f70db0b9afd90.js": "/blindtest-spotify/precache-manifest.a62761f7639534a8ef2f70db0b9afd90.js",
+  "service-worker.js": "/blindtest-spotify/service-worker.js"
 }
